@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Maria Souza
 
-- 🔭 Disponível para estágio em Font-End
+- 🔭 Disponível para estágio em Front-End
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 - 📖 Atualmente estou estudando HTML, CSS e JavaScript. Além de estar fazendo bootcamp em Machine Learning.
 - 📫 Contate-me no email: me.marisouza4668@gmail.com
