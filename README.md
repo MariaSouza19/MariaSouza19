@@ -1,14 +1,9 @@
 ## Olá! Eu sou a Maria Souza
 
 - 🔭 Disponível para estágio em Front-End
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
-- 📖 Atualmente estou estudando HTML, CSS e JavaScript. Além de estar fazendo bootcamp em Machine Learning.
+- 🌱 Estou cursando o 2° período de Análise e Desenvolvimento de Sistemas
+- 📖 Atualmente estou estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: me.marisouza4668@gmail.com
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaSouza19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaSouza19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -23,9 +18,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
