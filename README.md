@@ -2,7 +2,7 @@
 
 - 🔭 Disponível para estágio em Front-End
 - 🌱 Estou cursando o 2° período de Análise e Desenvolvimento de Sistemas
-- 📖 Atualmente estou estudando HTML, CSS e JavaScript
+- 📖 Atualmente estou estudando C# e SLQ Server
 - 📫 Contate-me no email: me.marisouza4668@gmail.com
 
 ###
