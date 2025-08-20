@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maria Souza
 
 - 🔭 Disponível para estágio em Front-End
-- 🌱 Estou cursando o 2° período de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou cursando o 3° período de Análise e Desenvolvimento de Sistemas
 - 📖 Atualmente estou estudando C# e SQL Server
 - 📫 Contate-me no email: me.marisouza4668@gmail.com
 
