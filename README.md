@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maria Souza
 
 - 🔭 Disponível para estágio
-- 🌱 Estou cursando o 3° período de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou cursando o 4° período de Análise e Desenvolvimento de Sistemas
 - 📖 Atualmente estou estudando React, TypeScript e C#
 - 📫 Contate-me no email: me.marisouza4668@gmail.com
 
